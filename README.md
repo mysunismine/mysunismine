@@ -5,7 +5,7 @@
 
 Сейчас работаю **AI‑тренером в Яндексе**: обучаю и улучшаю ответы LLM‑модели.
 
-В разработке работаю в основном с **Python**, **Django**, **SQL**, **Django REST Framework**, а также успел попробовать **FastAPI** (в том числе асинхронный) и **Flask**. Писал **парсеры** на BeautifulSoup и Scrapy, разбираюсь в API, пишу тесты на `pytest`, работаю с Docker и CI/CD (GitHub Actions, удалённый сервер, деплой, миграции). Использую `Git`, `VS Code`, `Postman` и обожаю терминал в Linux.
+В разработке работаю в основном с **Python**, **Django**, **SQL**, **Django REST Framework**, а также успел попробовать **FastAPI** (в том числе асинхронный) и **Flask**. Писал **парсеры** на BeautifulSoup и Scrapy, разбираюсь в API, пишу тесты на `pytest`, работаю с Docker и CI/CD (GitHub Actions, удалённый сервер, деплой, миграции). Использую `Git`, `VS Code`, `Postman`.
 
 ### Проекты
 - [pro-dvizhenie-bot](https://github.com/pro-dvizhenie-life/pro-dvizhenie-bot)
